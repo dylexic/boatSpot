@@ -103,7 +103,7 @@ body{
     margin: 0;
     padding: 0;
     height: 500px;
-    background-image: url('/Template12/Images/background_boat_image.jpg');
+    background-image: url('../Images/background_boat_image.jpg');
     background-size: cover;
     text-align: center;
     color: white;
@@ -202,27 +202,27 @@ span{
 }
 
 .new_york{
-    background-image: url('/Template12/Images/new_york.jpg');
+    background-image: url('../Images/new_york.jpg');
 }
 
 .california{
-    background-image: url('/Template12/Images/california.jpg');
+    background-image: url('../Images/california.jpg');
 }
 
 .washington{
-    background-image: url('/Template12/Images/washington.jpg');
+    background-image: url('../Images/washington.jpg');
 }
 
 .colorado{
-    background-image: url('/Template12/Images/colorado.jpg');
+    background-image: url('../Images/colorado.jpg');
 }
 
 .beach{
-    background-image: url('/Template12/Images/beach.jpg');
+    background-image: url('../Images/beach.jpg');
 }
 
 .arizona{
-    background-image: url('/Template12/Images/arizona.jpg');
+    background-image: url('../Images/arizona.jpg');
 }
 
 .city_name{
@@ -322,17 +322,17 @@ span{
 }
 
 .boat{
-    background-image: url('/Template12/Images/naka_boat.jpg');
+    background-image: url('../Images/naka_boat.jpg');
     height: 240px;
 }
 
 .sail{
-    background-image: url('/Template12/Images/sail_boat.jpg');
+    background-image: url('../Images/sail_boat.jpg');
     height: 240px;
 }
 
 .room{
-    background-image: url('/Template12/Images/ship_room.jpg');
+    background-image: url('../Images/ship_room.jpg');
     height: 240px;
 }
 
@@ -358,7 +358,7 @@ span{
     margin-bottom: 15px;
     padding: 0;
     height: 300px;
-    background-image: url('/Template12/Images/Cruise-ships-1.png');
+    background-image: url('../Images/Cruise-ships-1.png');
     background-size: cover;
     text-align: center;
     color: white;
@@ -422,18 +422,18 @@ span{
 }
 
 .north_boat{
-    background-image: url('/Template12/Images/north_boat.jpg');
+    background-image: url('../Images/north_boat.jpg');
     height: 240px;
 }
 
 .model_cloud{
-    background-image: url('/Template12/Images/boat_model.jpg');
+    background-image: url('../Images/boat_model.jpg');
     height: 240px;
     background-repeat: no-repeat;
 }
 
 .freelander{
-    background-image: url('/Template12/Images/boat_freelander.jpg');
+    background-image: url('../Images/boat_freelander.jpg');
     height: 240px;
 }
 
